@@ -1,0 +1,28 @@
+{
+    "first_name": "Viktor",
+    "last_name": "Korochanskii",
+    "surname": "Anatolievich",
+    "Age": 38,
+    "Pets": null,
+    "desired salary in $": [
+	{
+	"Id" : 1,
+	"speciality": "QA engineer",
+	"rank": "Junior",
+        "salary": 500
+	},
+	{
+	"Id": 2,
+	"speciality": "QA engineer",	
+	"rank":	"Middle",
+	"salary": 1200
+		},
+		{
+	"Id": 3,
+	"speciality": "QA engineer,
+	"rank": "senior",
+	"salary": 2000
+		}
+	]
+    "speak the langueges": [ "en", "ru" ]
+}
