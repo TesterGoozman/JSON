@@ -19,10 +19,12 @@
 		},
 		{
 	"Id": 3,
-	"speciality": "QA engineer,
+	"speciality": "QA engineer",
 	"rank": "senior",
 	"salary": 2000
-		}
-	]
+		},
+    {
     "speak the langueges": [ "en", "ru" ]
+    }
+	]
 }
