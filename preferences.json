@@ -1,0 +1,52 @@
+{
+    "first_name": "Viktor",
+    "last_name": "Korochanskii",
+    "surname": "Anatolievich",
+    "Age": 38,
+    "hobbies in areas of life": [
+        {
+        "Id" : 1,
+        "areas of life": "health",
+                "Id": 1,
+                "hobby in doors": [ "Gym", "Fitness", "Swimming" ]
+                },
+                {
+                "Id": 2,
+                "outdoor hobbies": [ "cycling", "running in the forest" ]
+                },
+      {
+        "Id": 2,
+        "areas of life": "adication"
+      },
+      {
+                "Id": 1,
+                "books" : [ "Lie to me", "Python 1 edition", "Idiot" ]
+                },
+                {
+                "Id": 2,
+                "Video lectures": [ "QA engineer Vadim KZ",
+                "QA engineer Artseom RS" ]
+                },
+      			{
+                "Id": 3,
+                "courses": [ "GitHub for beginners", "Postman AQA easy way to" ]
+                },
+      {
+         "Id": 3,
+         "areas of life": "rest"
+      },
+      {
+         "Id": 1,
+         "rest whis famaly": [ "play with kids",
+         "go to a restaraunt this my wife", "go to a cinema" ]
+         },
+         {
+         "Id": 2,
+         "rest alone": [ "I dont have any time to rest, i need hard to work",
+         "get the right job, but sometimes i play CS:GO" ]
+         },
+        ]
+}
+
+
+
