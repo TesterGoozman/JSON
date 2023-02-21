@@ -15,3 +15,7 @@
  18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON. (https: gitbush>bug_report.json> edit this file> изменения>commit changes ).
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе. (https: gitbush>bug_report.json> edit this file> commit/изменения>commit changes ).
  20. Синхронизировать внешний и локальный репозиторий JSON (git pull)
+
+
+
+123
